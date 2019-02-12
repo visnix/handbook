@@ -17,6 +17,11 @@ select version();
 select database();
 ```
 
++ 查看数据库列表
+```sql
+show databases;
+```
+
 + 选择并使用数据库
 ```sql
 use hello_sql;
