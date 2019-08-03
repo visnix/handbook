@@ -1,5 +1,8 @@
 # mysql
 
+##  安装教程
+> [使用apt的方式安装，我发现最简单方便](https://dev.mysql.com/downloads/repo/apt/)
+
 ## 基本命令
 
 + 启动数据库
