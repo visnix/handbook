@@ -7,6 +7,11 @@
 
 + 启动数据库
 ```shell
+mysql.server start
+ ```
+ 
++ 连接数据库
+```shell
 /usr/local/mysql/bin/mysql -u root -p
 ```
 
