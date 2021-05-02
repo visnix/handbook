@@ -1,1 +1,1 @@
-adb shell sh /data/user_de/0/moe.shizuku.privileged.api/start.sh
+adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh
