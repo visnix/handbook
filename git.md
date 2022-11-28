@@ -5,3 +5,10 @@ ssh-keygen -t rsa -C "youremail@example.com"
 https://github.com/WebKit/WebKit.git/trunk/Source/JavaScriptCore
 
 svn export https://github.com/WebKit/WebKit.git/trunk/Source/JavaScriptCore
+
+## 设置git proxy
+在.gitcofig总写入
+`
+[https "https://github.com"]
+	proxy = https://127.0.0.1:9090
+`
